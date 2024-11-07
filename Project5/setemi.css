@@ -1,34 +1,4 @@
-/* .container{
-    position: relative;
-    max-width: 400px;
-    margin: 0 auto;
-}
-.tooltip{
-    position: absolute;
-    padding: 5px;
-    background-color: red;
-    border: 1px solid brown;
-    font-size: 12px;
-    z-index: 1;
-} */
-/* .tooltip-top{
-    bottom: 100%;
-    transform: translateX(-50%);
-    left:50%
-    
-}
-.tooltip-right{
-    bottom: 50%;
-    transform: translateY(-50%);
-    left:100%
-    
-}
-.tooltip-left{
-    top: 100%;
-    transform: translateX(-50%);
-    left:50%
-    
-} */
+
  .container{
     position: relative;
    max-width:400px;
